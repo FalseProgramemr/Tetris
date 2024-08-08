@@ -1,35 +1,32 @@
 # project-tetris
 
-**In questo progetto abbiamo ricreato tetris in c++ usando la libreria ncurses. **
+**In this project, I recreated Tetris in C++ using the ncurses library. **
 
-Questo progetto presenta la realizzazione di un clone del gioco Tetris utilizzando la libreria ncurses. Il fine del progetto è quello di cimentarsi in un lavoro più simile a quelli che si incontrano nel mondo reale, coordinandosi con un team per simulare un vero progetto.
+This project presents the implementation of a Tetris game clone using the ncurses library.
 
 ## Installation
 
-Come far partire il gioco Tetris
+How to run the Tetris game:
 
-Scaricare il codice:
+:Download the code:
+ 
+-Download the ZIP file of the Tetris project from GitHub.                                                                    
+-Extract the contents of the ZIP file into a folder on your computer.                                                          
 
--Scarica il file ZIP del progetto Tetris da GitHub.                                                  
--Estrai il contenuto del file ZIP in una cartella sul tuo computer.                                        
+Compile the code:
 
-Compilare il codice:
+-Open a terminal window.
+-Navigate to the folder where you extracted the Tetris code using the cd command.                                 
+-Run the make command to compile the code.                                      
+-Once the code is compiled, run the ./tetris command to start the game.                          
 
--Apri una finestra del terminale.                                                      
--Vai alla cartella dove hai estratto il codice Tetris usando il comando cd.                                       
--Esegui il comando make per compilare il codice.                                                    
+## Game Controls
+Menu navigation:
 
-Avviare il gioco:
+-Use the UP and DOWN arrow keys to navigate through the menu and ENTER to select an option.
 
--Una volta compilato il codice, esegui il comando ./tetris per avviare il gioco.
-## Comandi di gioco
-Navigazione nel menu:
+Tetrominoes control:
 
--Usa i tasti freccia SU, GIÙ per spostarti all'interno del menu.                                                                         
--Premi il tasto ENTER per selezionare un'opzione.
-
-Controllo dei tetramini:
-
--Usa i tasti freccia DESTRA e SINISTRA per spostare i tetramini lateralmente.                                                 
--Usa il tasto freccia SU per ruotare i tetramini in senso orario.                                                                        
--Premi il tasto GIÙ per far scendere i tetramini più velocemente.                                                                 
+-Use the RIGHT and LEFT arrow keys to move the tetrominoes sideways.                         
+-Use the UP arrow key to rotate the tetrominoes clockwise.                                  
+-Press the DOWN arrow key to make the tetrominoes fall faster.
