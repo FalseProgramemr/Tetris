@@ -1,0 +1,10 @@
+564;paim;
+400;?;
+300;maria;
+200;maria;
+100;luigi;
+100;luigi;
+100;lucia;
+100;lucia;
+0;bho;
+0;?;
